@@ -5,4 +5,9 @@ A project that uses Python and NASA data to find Meteor landing sites
 
 This project requires Python3 and requests package.
 
-`python3 find_meteors.py`
+First install pipenv then.
+
+```
+pipenv install
+pipenv run "python find_meteors.py"
+```
